@@ -46,4 +46,5 @@ This project performs **sentiment analysis** on restaurant reviews using **Natur
 git clone https://github.com/your-username/sentiment-analysis-nlp.git
 cd sentiment-analysis-nlp
 
-<img width="1004" height="879" alt="image" src="https://github.com/user-attachments/assets/2dcde3b9-ce61-44c6-936b-26817e09d3ac" />
+<img width="1004" height="879" alt="image" src="https://github.com/user-attachments/assets/fcf4ccdd-9b30-465c-a7a9-10e631c517c7" />
+
