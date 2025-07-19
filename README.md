@@ -41,8 +41,8 @@ This project performs **sentiment analysis** on restaurant reviews using **Natur
 
 ## ⚙️ How to Run Locally
 
-### 1️⃣ Clone the Repository
-```bash
+# 1️⃣ Clone the Repository
+
 git clone https://github.com/your-username/sentiment-analysis-nlp.git
 cd sentiment-analysis-nlp
 
